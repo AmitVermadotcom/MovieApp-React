@@ -1,0 +1,14 @@
+.navBarButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 50px;
+}
+
+.navBarButton:hover{
+    cursor: pointer;
+    background-color:rgb(236, 236, 236);
+}

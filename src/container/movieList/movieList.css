@@ -1,0 +1,21 @@
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.movie-table-container {
+    width: calc(100vw - 200px);
+    height: calc(100vh -50px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input{
+    width: calc(100vw - 400px);
+    height: 2.5rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}

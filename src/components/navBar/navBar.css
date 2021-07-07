@@ -1,0 +1,9 @@
+.navBar{
+    height: 50px;
+    width: 100vw;
+    display: flex;
+}
+
+.navbarButton{
+    width: 100px;
+}

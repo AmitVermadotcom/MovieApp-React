@@ -1,0 +1,16 @@
+.movietable-row{
+    height: 16.6%;
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid lightgray;
+}
+
+.column {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-right: 1px solid lightgray;
+}
